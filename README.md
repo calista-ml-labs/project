@@ -9,7 +9,7 @@ Welcome to my personal machine learning learning and project dashboard!
 These are the top projects that best represent my skills and focus areas in machine learning.
 
 * [*Machine Learning Journey*](https://github.com/calistasalsabila/Machine-Learning)
-A structured repository documenting learning progress and experimentation across machine learning concepts and approaches
+- A structured repository documenting learning progress and experimentation across machine learning concepts and approaches
 
 * [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
 Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.

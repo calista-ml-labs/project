@@ -17,7 +17,7 @@ Detecting Indonesian political hoaxes using deep learning and machine learning m
 
 ## Projects
 
-### [Project A:*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
+* [Project A: *Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
 Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
 
 ---

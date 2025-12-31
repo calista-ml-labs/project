@@ -4,17 +4,21 @@ Welcome to my personal machine learning learning and project dashboard!
 
 ---
 
-## Most Valuable Projects (MVP)
+## Most Valuable Projects (MVP) 🌟
 
-These are the top projects that best represent my skills and focus areas in machine learning and data analysis.
+These are the top projects that best represent my skills and focus areas in machine learning.
 
-*
+* [*Machine Learning Journey*](https://github.com/calistasalsabila/Machine-Learning)
+A structured repository documenting learning progress and experimentation across machine learning concepts and approaches
+
+* [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
+Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
+
 
 ## Projects
 
-### [Project A: Machine Learning Portfolio](https://github.com/calista-ml-labs)
-
-A collection of machine learning projects showcasing data preprocessing, feature engineering, model training, and evaluation.
+### [Project A:*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
+Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
 
 ---
 
